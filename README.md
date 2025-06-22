@@ -7,8 +7,25 @@ Today I explored a fun and challenging game problem called the Zip Game — a pu
 🔍 Backtracking
 🧩 Problem-solving
 
+![image](https://github.com/user-attachments/assets/1a2844fb-4b94-411e-8711-787db6595485)
+
+
+
 💻 The idea is to determine whether two input strings can be interleaved in order to form a third string.
 The twist? Every character must be used, and order must be preserved — classic backtracking territory!
+
+Input / Output Formate :
+# Input Representing in the matrix formate with given for empty cell represent it by 0
+mm=[[11,0,0,6,0,7],
+    [0,0,10,0,1,0],
+    [0,3,0,5,0,0],
+    [9,0,4,0,0,0],
+    [0,2,0,0,0,0],
+    [8,0,0,0,0,0]]
+
+# Output
+DDDLLLUURDRUUURRDDDDDLLLLLUUUURRULL
+
 
 🧠 Core Concepts Applied:
 
