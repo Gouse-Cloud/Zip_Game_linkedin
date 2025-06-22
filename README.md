@@ -1,6 +1,7 @@
 # Zip_Game_linkedin
 # Just Solved the Linkedin Zip Game using Python.
 
+Game Link : https://www.linkedin.com/games/zip/
 
 Today I explored a fun and challenging game problem called the Zip Game — a puzzle that really pushes your recursion and backtracking skills to the next level!
 🔁 Recursion
